@@ -12,4 +12,4 @@ pip install colorama
 
 Run spam.py 🔥
 
-(https://media.discordapp.net/attachments/1084260846638743664/1096259275602530384/Unbenanntes_Video_Mit_Clipchamp_erstellt.gif?width=532&height=300)
+![Unbenanntes Video – Mit Clipchamp erstellt](https://user-images.githubusercontent.com/129861526/231925820-6cf6ad0c-592c-4437-b489-6a96208ccee6.gif)

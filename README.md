@@ -12,4 +12,4 @@ pip install colorama
 
 Run spam.py 🔥
 
-![EinsteinBrainGIF](https://user-images.githubusercontent.com/129861526/231924186-82f2353d-ee6a-4b2e-ac9c-e2701c267f89.gif)
+(https://media.discordapp.net/attachments/1084260846638743664/1096259275602530384/Unbenanntes_Video_Mit_Clipchamp_erstellt.gif?width=532&height=300)

